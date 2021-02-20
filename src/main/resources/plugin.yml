@@ -1,0 +1,9 @@
+name: LightFlight
+version: ${project.version}
+main: tk.yeetyoshi.yoshiplugin.YoshiPlugin
+api-version: 1.16
+commands:
+  fly:
+    description: Allows the player to fly when executed.
+    usage: /fly
+    permission: light.flight
